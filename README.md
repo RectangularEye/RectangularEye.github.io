@@ -104,7 +104,12 @@ IONCinema, 2011-2016
 [From noir to Cultivate Cinema, local specialty screenings are big](https://buffalonews.com/entertainment/from-noir-to-cultivate-cinema-local-specialty-screenings-are-big/article_a1c4998c-84b4-59bc-92a9-2bd15932b77a.html) Buffalo News, 2017\
 [Greed, Corruption & Cover-Up At The NSA](https://artvoice.com/2016/03/04/greed-corruption-cover-up-at-the-nsa/) Artvoice, 2016\
 [Cultivate Cinema Circle](https://www.buffalorising.com/2016/12/cultivate-cinema-circle/) Buffalo Rising, 2016\
-[Will the circle be unbroke?](https://cultivatecinema.com/wp-content/uploads/2024/06/0ca56-091715-artvoice-article2.png?w=805&h=1024) Artvoice, 2015
+[Will the circle be unbroken?](https://cultivatecinema.com/wp-content/uploads/2024/06/0ca56-091715-artvoice-article2.png?w=805&h=1024) Artvoice, 2015
+
+## memberships
+
+[Greater Western New York Film Critics Association](https://gwnyfilmcritics.com/members-list/)\
+[Online Film Critics Society](https://ofcs.org/jordan-m-smith/)
 
 ## contact
 email: [jordan.maelyn.smith at gmail dot com](emailto:jordan.maelyn.smith@gmail.com) \
