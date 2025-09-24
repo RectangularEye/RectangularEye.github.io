@@ -44,6 +44,18 @@ Central Downtown Library, Buffalo & Erie County Public Library, 2018
 [Forward](https://stressdolls.bandcamp.com/album/forward)
 2022
 
+### Vega Vinyl
+
+[East Of The Wall / Year Of No Light / Rosetta - Split](https://www.discogs.com/master/255304-East-Of-The-Wall-Year-Of-No-Light-Rosetta-East-Of-The-Wall-Year-Of-No-Light-Rosetta) 2010
+
+[Giant Squid - The Ichthyologist](https://www.discogs.com/master/192196-Giant-Squid-The-Ichthyologist) 2009
+
+[Damiera - M(US)IC](https://www.discogs.com/release/4345590-Damiera-MUSIC) 2009
+
+[Constants - The Murder of Tom Fitzgerril](https://www.discogs.com/master/382575-Constants-The-Murder-Of-Tom-Fitzgerril) 2008
+
+[Park - Building a Better _______](https://www.discogs.com/master/329575-Park-Building-A-Better-_______) 2008
+
 ### Hello, Star Vega
 [Last Three](https://open.spotify.com/album/0C6OTSzrXyFnchdSjGh2Ob?si=ROKVxMcISFSC7CSYkCcHpQ)
 2006
