@@ -1,14 +1,25 @@
 # Jordan Maelyn Smith
 <img src="https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29" alt="Jordan" width="250"/>
 
-librarian // musician // video editor // journalist // curator
-
+librarian // musician // video editor // journalist // curator\
 located in Buffalo, NY
 
 ## library
 
-[Assessment in Library Makerspaces: Opportunities and Challenges](https://connectedlearningsummit2019.sched.com/speaker/jordan_m_smith.1zufk0pg) 
+[Launch Pad Makerspace](https://www.buffalolib.org/makerspace-technology/launch-pad) \
+Central Downtown Library, Buffalo & Erie County Public Library, 2015-
+
+[Assessment in Library Makerspaces: Opportunities and Challenges](https://connectedlearningsummit2019.sched.com/speaker/jordan_m_smith.1zufk0pg) \
 Connected Learning Summit, University of California, Irvine, CA, 2019
+
+[An assessment Matrix for library Makerspaces](https://www.sciencedirect.com/science/article/pii/S0740818818302913) \
+Library & Information Science Research, 2019
+
+[Assessments in Library Makerspaces: The Audience is Everyone!](https://custom.cvent.com/57A95AEBA7D746DB83F8C2B8649A8B93/files/event/f0d9395efb6a427c9fb1bf2b72d48d5d/356a0928f95b4b85aaa6a99d50c571f2.pdf) \
+Play Make Learn Conference, University of Wisconsin-Madison, 2019 
+
+[You Are The Library](https://www.insideoutproject.net/en/explore/group-action/buffalo-you-are-the-library) \
+Central Downtown Library, Buffalo & Erie County Public Library, 2018
 
 
 ## music
@@ -26,6 +37,10 @@ Connected Learning Summit, University of California, Irvine, CA, 2019
 ### Stress Dolls
 [Forward](https://stressdolls.bandcamp.com/album/forward)
 2022
+
+### Hello, Star Vega
+[The Casino's Wake](https://www.discogs.com/artist/2994622-Hello-Star-Vega)
+2006
 
 
 ## video
