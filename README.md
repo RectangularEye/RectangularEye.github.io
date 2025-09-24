@@ -2,6 +2,7 @@
 <img src="https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29" alt="Jordan" width="250"/>
 
 librarian // musician // video editor // journalist // curator
+located in Buffalo, NY
 
 ## library
 
@@ -27,6 +28,9 @@ Connected Learning Summit, University of California, Irvine, CA, 2019
 
 
 ## video
+
+[What Valerie Makes](https://www.youtube.com/@what_valerie_makes/videos)
+2023-
 
 [The Pan Man](https://www.youtube.com/watch?v=l8GrXcWCD6Y)
 2021, 14 min
