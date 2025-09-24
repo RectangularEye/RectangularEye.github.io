@@ -104,6 +104,7 @@ IONCinema, 2011-2016
 
 [Field Recording Initiative – Buffalo Field Recording Treasure Hunt](https://hissandaroar.com/v3/field-recording-initiative-buffalo-field-recording-treasure-hunt/) Hiss and Roar, 2025\
 [Urge Surfer Set to Drop Compelling New EP, 'Alphabet Archive'](https://www.1120press.com/post/urge-surfer-set-to-drop-compelling-new-ep-alphabet-archive) 1120 Press, 2024\
+[Catching up with local favorites](https://www.buffalospree.com/arts_entertainment/film/catching-up-with-local-favorites/article_64195de0-c0bd-11ec-b4aa-ef3db4f724d7.html) Buffalo Spree, 2022\
 [Urge Surfer Releases Debut EP, Music Video for “Cursed”](https://buffablog.com/urge-surfer-releases-debut-ep-music-video-for-cursed/) BuffaBlog, 2022\
 [Cultivate Cinema screens film debuts from female directors](https://buffalonews.com/entertainment/article_971c7301-d55d-5f6a-baa3-a6e253c70524.html) Buffalo News, 2018\
 [From noir to Cultivate Cinema, local specialty screenings are big](https://buffalonews.com/entertainment/from-noir-to-cultivate-cinema-local-specialty-screenings-are-big/article_a1c4998c-84b4-59bc-92a9-2bd15932b77a.html) Buffalo News, 2017\
