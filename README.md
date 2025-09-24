@@ -84,6 +84,8 @@ DOC NYC, 2019-\
 Stranger Than Fiction, 2015-2019\
 [Reports from True/False Film Festival](https://www.sensesofcinema.com/author/jordan-m-smith/)
 Senses of Cinema, 2018-2020\
+[Various Festival Reports](https://medium.com/@Rectangular_Eye)
+Nonfics, 2017-2018\
 [Retracing Buffalo ’66, One Location at a Time](https://www.buffalospree.com/features/retracing-buffalo-66-one-location-at-a-time/article_1fdd41ed-7caa-5201-8dad-5eb6c07dc9cc.html)
 Buffalo Spree, 2015\
 [Various Reviews, Interviews, Festival Reports & Features](https://connectedlearningsummit2019.sched.com/speaker/jordan_m_smith.1zufk0pg)
