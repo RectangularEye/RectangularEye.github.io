@@ -111,7 +111,7 @@ IONCinema, 2011-2016
 
 ## memberships
 
-[Trans Journalist Association](https://members.transjournalists.org/)
+[Trans Journalist Association](https://members.transjournalists.org/)\
 [Greater Western New York Film Critics Association](https://gwnyfilmcritics.com/members-list/)\
 [Online Film Critics Society](https://ofcs.org/jordan-m-smith/)
 
