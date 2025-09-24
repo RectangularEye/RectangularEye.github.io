@@ -1,4 +1,5 @@
 # Jordan Maelyn Smith
+
 <img src="https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29" alt="Jordan" width="250"/>
 
 librarian // musician // video editor // journalist // curator\
@@ -108,6 +109,7 @@ IONCinema, 2011-2016
 
 ## memberships
 
+[Trans Journalist Association](https://members.transjournalists.org/)
 [Greater Western New York Film Critics Association](https://gwnyfilmcritics.com/members-list/)\
 [Online Film Critics Society](https://ofcs.org/jordan-m-smith/)
 
