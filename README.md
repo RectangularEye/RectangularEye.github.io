@@ -34,10 +34,7 @@
 
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://RectangularEye.github.io/">Jordan Maelyn Smith</a></h1>
-      
+    <div class="container-lg px-3 my-5 markdown-body">  
 
       <h1 id="Jordan-Maelyn-Smith">Jordan Maelyn Smith</h1>
 <p>public librarian // musician // documentary film journalist<br />
