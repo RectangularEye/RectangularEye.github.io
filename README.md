@@ -2,6 +2,7 @@
 <img src="https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29" alt="Jordan" width="250"/>
 
 librarian // musician // video editor // journalist // curator
+
 located in Buffalo, NY
 
 ## library
