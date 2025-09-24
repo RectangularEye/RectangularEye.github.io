@@ -9,6 +9,12 @@ located in Buffalo, NY
 [Launch Pad Makerspace](https://www.buffalolib.org/makerspace-technology/launch-pad) \
 Central Downtown Library, Buffalo & Erie County Public Library, 2015-
 
+[The library's Makerspace: where creativity can come to life](https://buffalo.com/community/the-librarys-makerspace-where-creativity-can-come-to-life/article_d311cb16-c0d2-11ef-80f1-73d6377e1154.html#tracking-source=home-top-story)
+Buffalo Magazine, 2024
+
+[Introduction to Creating Makerspaces in Libraries](https://wnylrc.org/event/introduction-creating-makerspaces-libraries)
+Western New York Library Resources Council, 2022
+
 [Assessment in Library Makerspaces: Opportunities and Challenges](https://connectedlearningsummit2019.sched.com/speaker/jordan_m_smith.1zufk0pg) \
 Connected Learning Summit, University of California, Irvine, CA, 2019
 
