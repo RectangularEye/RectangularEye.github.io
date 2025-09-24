@@ -97,6 +97,15 @@ IONCinema, 2011-2016
 [Influence Film Club](http://influencefilmclub.com/)
 2014-2018
 
+## press
+
+[Urge Surfer Set to Drop Compelling New EP, 'Alphabet Archive'](https://www.1120press.com/post/urge-surfer-set-to-drop-compelling-new-ep-alphabet-archive) 1120 Press, 2024\
+[Urge Surfer Releases Debut EP, Music Video for “Cursed”](https://buffablog.com/urge-surfer-releases-debut-ep-music-video-for-cursed/) BuffaBlog, 2022\
+[From noir to Cultivate Cinema, local specialty screenings are big](https://buffalonews.com/entertainment/from-noir-to-cultivate-cinema-local-specialty-screenings-are-big/article_a1c4998c-84b4-59bc-92a9-2bd15932b77a.html) Buffalo News, 2017\
+[Greed, Corruption & Cover-Up At The NSA](https://artvoice.com/2016/03/04/greed-corruption-cover-up-at-the-nsa/) Artvoice, 2016\
+[Cultivate Cinema Circle](https://www.buffalorising.com/2016/12/cultivate-cinema-circle/) Buffalo Rising, 2016\
+[Will the circle be unbroke?](https://cultivatecinema.com/wp-content/uploads/2024/06/0ca56-091715-artvoice-article2.png?w=805&h=1024) Artvoice, 2015
+
 ## contact
 email: [jordan.maelyn.smith at gmail dot com](emailto:jordan.maelyn.smith@gmail.com) \
 instagram: [Rectangular_Eye](https://www.instagram.com/Rectangular_Eye/)
