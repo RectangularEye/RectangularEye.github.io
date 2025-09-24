@@ -9,22 +9,20 @@ public librarian // musician // video editor // documentary film journalist
 2018, 7min
 
 ## video
-[The Giving Tree](https://vimeo.com/305890476?fl=pl&fe=sh) 2018
+[The Pan Man](https://www.youtube.com/watch?v=l8GrXcWCD6Y)
+2021, 14 min
 
-[blue moon muzak](https://colmkil.bandcamp.com/album/blue-moon-muzak)
-2024
+[The Giving Tree](https://vimeo.com/305890476)
+2018, 4 min
 
-[donut soundtrack](https://colmkil.bandcamp.com/album/donut-ost)
-2023
+[Body Modifications in Cinema](https://vimeo.com/308483991)
+2018, 9 min
 
-[quarewave](https://colmkil.bandcamp.com/album/quarewave)
-2022
+[The Haunted Library](https://www.youtube.com/watch?v=WTWlnfjbkWk)
+2013, 20 min
 
-[waxing gibbous](https://colmkil.bandcamp.com/album/waxing-gibbous)
-2021
-
-[spring and all](https://colmkil.bandcamp.com/album/spring-and-all)
-2020
+[Twain in Buffalo](https://www.youtube.com/watch?v=Gc9zzqa8bG0)
+2013, 4 min
 
 ## contact
-email: gannonogara at gmail dot com
+email: jordan.maelyn.smith at gmail dot com
