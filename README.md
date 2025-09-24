@@ -102,9 +102,11 @@ IONCinema, 2011-2016
 
 [Urge Surfer Set to Drop Compelling New EP, 'Alphabet Archive'](https://www.1120press.com/post/urge-surfer-set-to-drop-compelling-new-ep-alphabet-archive) 1120 Press, 2024\
 [Urge Surfer Releases Debut EP, Music Video for “Cursed”](https://buffablog.com/urge-surfer-releases-debut-ep-music-video-for-cursed/) BuffaBlog, 2022\
+[Cultivate Cinema screens film debuts from female directors](https://buffalonews.com/entertainment/article_971c7301-d55d-5f6a-baa3-a6e253c70524.html) Buffalo News, 2018\
 [From noir to Cultivate Cinema, local specialty screenings are big](https://buffalonews.com/entertainment/from-noir-to-cultivate-cinema-local-specialty-screenings-are-big/article_a1c4998c-84b4-59bc-92a9-2bd15932b77a.html) Buffalo News, 2017\
 [Greed, Corruption & Cover-Up At The NSA](https://artvoice.com/2016/03/04/greed-corruption-cover-up-at-the-nsa/) Artvoice, 2016\
 [Cultivate Cinema Circle](https://www.buffalorising.com/2016/12/cultivate-cinema-circle/) Buffalo Rising, 2016\
+[Returnings to Life: The Apu Trilogy in Buffalo](https://www.criterion.com/current/posts/3848-returnings-to-life-the-apu-trilogy-in-buffalo?srsltid=AfmBOooPmyKugmyzgm9SLHrNqQcyM-mxt2zdq2HfIs0ZoiqSAm5ECvk0) The Criterion Collection's Current, 2015\
 [Will the circle be unbroken?](https://cultivatecinema.com/wp-content/uploads/2024/06/0ca56-091715-artvoice-article2.png?w=805&h=1024) Artvoice, 2015
 
 ## memberships
