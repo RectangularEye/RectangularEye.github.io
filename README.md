@@ -91,6 +91,7 @@ IONCinema, 2011-2016
 
 ## film curation
 
+[DOC NYC Weekend Watch](https://www.docnyc.net/weekend-watch/) 2021-\
 [Cultivate Cinema Circle](https://cultivatecinema.com/)
 2015-2023\
 [Influence Film Club](http://influencefilmclub.com/)
