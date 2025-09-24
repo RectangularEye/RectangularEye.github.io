@@ -115,4 +115,5 @@ IONCinema, 2011-2016
 2014-2018
 
 ## contact
-email: jordan.maelyn.smith at gmail dot com
+email: [jordan.maelyn.smith at gmail dot com](emailto:jordan.maelyn.smith@gmail.com) \
+instagram: [Rectangular_Eye](https://www.instagram.com/Rectangular_Eye/)
