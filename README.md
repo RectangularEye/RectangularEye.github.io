@@ -60,6 +60,17 @@ Senses of Cinema, 2018-2020
 [Retracing Buffalo ’66, One Location at a Time](https://www.buffalospree.com/features/retracing-buffalo-66-one-location-at-a-time/article_1fdd41ed-7caa-5201-8dad-5eb6c07dc9cc.html)
 Buffalo Spree, 2015
 
+[Various Reviews, Interviews, Festival Reports & Features](https://connectedlearningsummit2019.sched.com/speaker/jordan_m_smith.1zufk0pg)
+IONCinema, 2011-2016
+
+
+## film curation
+
+[Cultivate Cinema Circle](https://cultivatecinema.com/)
+2015-2023
+
+[Influence Film Club](http://influencefilmclub.com/)
+2014-2018
 
 ## contact
 email: jordan.maelyn.smith at gmail dot com
