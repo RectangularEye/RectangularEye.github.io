@@ -1,9 +1,13 @@
 # Jordan Maelyn Smith
 public librarian // musician // video editor // documentary film journalist
 
+![Matt Swanekamp portrait color (1)](https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29)
+
 ## music
-[Donut](https://vimeo.com/745910792)
-2023, 62min
+
+### Urge Surfer
+[Misnomers](https://urgesurfer.bandcamp.com/album/misnomers)
+2025
 
 [Catsitter](https://vimeo.com/231801456)
 2018, 7min
