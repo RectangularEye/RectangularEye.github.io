@@ -78,7 +78,7 @@ Central Downtown Library, Buffalo & Erie County Public Library, 2018
 2013, 4 min
 
 
-## film writing
+## film journalism
 
 [Monday Memo](https://www.docnyc.net/monday-memo/)
 DOC NYC, 2019-\
