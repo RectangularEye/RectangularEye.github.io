@@ -106,7 +106,7 @@ IONCinema, 2011-2016
 
 [The Music Box: New Urge Surfer release coming soon](https://thebuffalohive.com/the-music-box-new-urge-surfer-release-coming-soon/) The Buffalo Hive, 2025\
 [Field Recording Initiative – Buffalo Field Recording Treasure Hunt](https://hissandaroar.com/v3/field-recording-initiative-buffalo-field-recording-treasure-hunt/) Hiss and Roar, 2025\
-[716: The Sound: Jordan Smith](https://www.hardlyawesomestudios.com/716-the-sound/episode-17-jordan-smith) 716: The Sound, 2025\
+[716: The Sound Ep 17: Jordan Smith](https://www.hardlyawesomestudios.com/716-the-sound/episode-17-jordan-smith) 716: The Sound, 2025\
 [Urge Surfer Set to Drop Compelling New EP, 'Alphabet Archive'](https://www.1120press.com/post/urge-surfer-set-to-drop-compelling-new-ep-alphabet-archive) 1120 Press, 2024\
 [Catching up with local favorites](https://www.buffalospree.com/arts_entertainment/film/catching-up-with-local-favorites/article_64195de0-c0bd-11ec-b4aa-ef3db4f724d7.html) Buffalo Spree, 2022\
 [Urge Surfer - Reach](https://www.pitchperfectsite.com/indie-music-album-reviews/urge-surfer-reach) Pitch Perfect, 2022\
