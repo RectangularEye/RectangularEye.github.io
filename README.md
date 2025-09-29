@@ -108,6 +108,7 @@ IONCinema, 2011-2016
 
 ## press
 
+[New Urge Surfer EP, ‘MISNOMERS,’ Rides a Wave of Daring Sonic Exploration](https://www.1120press.com/post/new-urge-surfer-ep-misonomers-rides-a-wave-of-daring-sonic-exploration) 1120 Press, 2025\
 [The Music Box: New Urge Surfer release coming soon](https://thebuffalohive.com/the-music-box-new-urge-surfer-release-coming-soon/) The Buffalo Hive, 2025\
 [Field Recording Initiative – Buffalo Field Recording Treasure Hunt](https://hissandaroar.com/v3/field-recording-initiative-buffalo-field-recording-treasure-hunt/) Hiss and Roar, 2025\
 [716: The Sound Episode 17: Jordan Smith](https://www.hardlyawesomestudios.com/716-the-sound/episode-17-jordan-smith) 716: The Sound, 2025\
