@@ -124,6 +124,7 @@ IONCinema, 2011-2016
 [Cultivate Cinema Circle](https://www.buffalorising.com/2016/12/cultivate-cinema-circle/) Buffalo Rising, 2016\
 [Returnings to Life: The Apu Trilogy in Buffalo](https://www.criterion.com/current/posts/3848-returnings-to-life-the-apu-trilogy-in-buffalo?srsltid=AfmBOooPmyKugmyzgm9SLHrNqQcyM-mxt2zdq2HfIs0ZoiqSAm5ECvk0) The Criterion Collection's Current, 2015\
 [Will the circle be unbroken?](https://cultivatecinema.com/wp-content/uploads/2024/06/0ca56-091715-artvoice-article2.png?w=805&h=1024) Artvoice, 2015
+[Hello, Star Vega – The Casino’s Wake (review)](https://verbicidemagazine.com/hello-star-vega-the-casino%E2%80%99s-wake/) Verbicide, 2006
 
 ## memberships
 
