@@ -53,7 +53,7 @@ Central Downtown Library, Buffalo & Erie County Public Library, 2018
 
 ### Hello, Star Vega
 [Last Three](https://open.spotify.com/album/0C6OTSzrXyFnchdSjGh2Ob?si=ROKVxMcISFSC7CSYkCcHpQ)
-2006\
+2007\
 [The Casino's Wake](https://open.spotify.com/album/2KROl2JDttw2JaQM9IDubX?si=-vAMIwjtQCCa1XyqztqDGg)
 2006
 
