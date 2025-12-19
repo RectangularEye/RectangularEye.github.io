@@ -115,6 +115,7 @@ IONCinema, 2011-2016
 [Field Recording Initiative – Buffalo Field Recording Treasure Hunt](https://hissandaroar.com/v3/field-recording-initiative-buffalo-field-recording-treasure-hunt/) Hiss and Roar, 2025\
 [716: The Sound Episode 17: Jordan Smith](https://www.hardlyawesomestudios.com/716-the-sound/episode-17-jordan-smith) 716: The Sound, 2025\
 [Urge Surfer Set to Drop Compelling New EP, 'Alphabet Archive'](https://www.1120press.com/post/urge-surfer-set-to-drop-compelling-new-ep-alphabet-archive) 1120 Press, 2024\
+[The Local Lo-Down - Stress Dolls](https://rectangulareye.github.io/) WCVF 88.9 FM, 2023\
 [Catching up with local favorites](https://www.buffalospree.com/arts_entertainment/film/catching-up-with-local-favorites/article_64195de0-c0bd-11ec-b4aa-ef3db4f724d7.html) Buffalo Spree, 2022\
 [Review: Urge Surfer - Reach](https://www.pitchperfectsite.com/indie-music-album-reviews/urge-surfer-reach) Pitch Perfect, 2022\
 [Urge Surfer Releases Debut EP, Music Video for “Cursed”](https://buffablog.com/urge-surfer-releases-debut-ep-music-video-for-cursed/) BuffaBlog, 2022\
