@@ -129,8 +129,7 @@ IONCinema, 2011-2016
 
 ## live performances
 
-
-| Band |	Date |	Bill |	Venue |
+| Group |	Date |	Bill |	Venue |
 | ---------------|-------|-------|--------|
 Hello, Star Vega |	4/23/2005	| Junius, ZeroPointOne, Tears of Tomorrow, Up From Here	| Rockin' Rick's, Limestone, NY
 Hello, Star Vega |	4/29/2005	|	Fred Fest w/ ZeroPointOne, Tears of Tomorrow, Marion	| 	Rockin' Rhi's Crazy Train, Fredonia, NY
