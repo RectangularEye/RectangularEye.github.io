@@ -170,7 +170,8 @@ Hello, Star Vega |	10/6/2006	|	 	| 	BJ's, Fredonia, NY
 Hello, Star Vega |	10/21/2006	|	Gaza, The Network, Thumbscrew	| 	Hartfield Bay Cafe, Mayville, NY
 Hello, Star Vega |	10/31/2006	|	Intronaut		| Reg Lenna Studio Theater, Jamestown, NY
 Hello, Star Vega |	3/3/2007	|	Trophy Scars, Imperial, Her Candane	| 	Rockin' Rick's, Limestone, NY
-Hello, Star Vega |	7/25/2007	|			| 
+Hello, Star Vega |	7/25/2007	|		Marrow	| Dunkirk Fairgrounds, Dunkirk, NY
+Hello, Star Vega |	8/25/2007	|	Everything and You		| Jamestown, NY
 Hello, Star Vega |	10/28/2007	|	Everything and You		| Dunkirk, NY
 Stress Dolls |	1/21/2022	|	*'Forward' Album Release Show* w/ Velvet Bethany		| The Cave, Buffalo, NY
 Stress Dolls |	2/4/2022	|	Grosh	| 	Jack Rabbit, Buffalo, NY
