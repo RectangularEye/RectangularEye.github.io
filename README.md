@@ -207,7 +207,7 @@ Stress Dolls |	3/29/2024	|		|  Grounds for Change, Meadville, PA
 Stress Dolls |	4/14/2024	|	Prarie Pavement, TTTT	| 	Lucky Lanes, Fredonia, NY
 Stress Dolls |	4/26/2024	|	Castle Black, Goodbye Metro, Velvet Bethany 	| 	Mohawk Place, Buffalo, NY
 Stress Dolls |	5/17/2024	|	*'Queen Of No' Record Release Party* w/ Sons of Luther	| 	Revolution Gallery, Buffalo, NY
-Stress Dolls (duo) |	5/19/2024	|	In-Store		| Hi-Fi Hits Records, Williamsville, NY
+Stress Dolls (duo) |	5/19/2024	|	*In-Store*		| Hi-Fi Hits Records, Williamsville, NY
 Stress Dolls |	5/23/2024	|	Girl Cologne, The Shoehorns, Blue Hour	| 	Beachland Ballroom, Cleveland, OH
 Stress Dolls |	5/25/2024	|	Middle Names, Loveseat		| The Brass Rail, Fort Wayne, IN
 Stress Dolls |	5/26/2024	|	Almost There But Not Really		| Burlington Bar, Chicago, IL
