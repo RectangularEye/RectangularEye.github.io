@@ -225,7 +225,7 @@ Stress Dolls |	5/16/2025	|	Black Wolf & The Thief	| 	Jack Rabbit, Buffalo, NY
 Stress Dolls |	6/28/2025	|	Tugboat Annie, Black Jacket, Gathering Ground		| Electric City, Buffalo, NY
 Stress Dolls |	7/24/2025	|	*Thursday & Main* w/ The Sheila Divine	| 	Fountain Plaza, Buffalo, NY
 Personal Style |	8/21/2025	|	Chimes of Bayonets, Idle Era		| No Fun, Troy, NY
-Personal Style |	8/22/2025	|	Chimes of Bayonets, Jesse Taylor Band, Star Farm	| 	Odd Fellows Hall, Burlington VT
+Personal Style |	8/22/2025	|	Chimes of Bayonets, Jesse Taylor Band, Star Farm	| 	Odd Fellows Hall, Burlington, VT
 Personal Style |	8/23/2025	|	Chimes of Bayonets, Traders, Dwelley	| 	O'Brien's, Boston, MA
 Personal Style |	8/24/2025	|	Chimes of Bayonets, Sun Urchins, Crossbite		| Buttonwoods Brewery, Providence, RI
 Personal Style |	9/6/2025	|	Goodbye Metro, Different Planets, Pam Swarts, Mookie, DJ Handsome Dan	| 	Mr. Goodbar, Buffalo, NY
