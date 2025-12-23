@@ -213,7 +213,7 @@ Stress Dolls |	5/25/2024	|	Middle Names, Loveseat		| The Brass Rail, Fort Wayne,
 Stress Dolls |	5/26/2024	|	Almost There But Not Really		| Burlington Bar, Chicago, IL
 Solo |	5/27/2024	|	*Drone Day* w/ Hundreds of Seabirds, Max Davis, Steve Flato, Sallyandra, Mark Milanovich		| Downtown Central Library, Buffalo, NY
 Stress Dolls |	6/8/2024	|	*East Aurora Music Festival*		| Wallenwein's Hotel, East Aurora, NY
-Stress Dolls |	7/2/2024	|	Food Truck Tuesday	| 	Larkin Square, Buffalo, NY
+Stress Dolls |	7/2/2024	|	*Food Truck Tuesday*	| 	Larkin Square, Buffalo, NY
 Stress Dolls |	7/19/2024	|	Honeycrush, Dogs in Stereo	| 	Nineth Ward, Buffalo, NY
 Stress Dolls (duo) |	7/26/2024	|	*Disability Pride Fest*		| Canalside, Buffalo, NY
 Stress Dolls |	8/24/2024	|	The Cynz, Perilous, Rattle Bones	| 	The Cave, Buffalo, NY
