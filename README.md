@@ -156,10 +156,10 @@ Hello, Star Vega |	12/10/2005	|	Danny Diablo, Ringworm, Agents of Man, Rivalry	|
 Hello, Star Vega |	12/17/2005	|	*A Very Metal Christmas* w/ STEMM, Zeropointone, Greyscale, Waiting For Never, Entropys End, Thoughts Lost, Anaisin, Custom Gauge, An Awkward Silence	| 	Rockin' Ricks, Limestone, NY
 Hello, Star Vega |	1/27/2006	|	Trust In Chariots, ZeroPointOne, Aniasin, An Awkward Silence	| 	Old Hickory Lanes, Coudersport, NY
 Hello, Star Vega |	2/11/2006	|	Fireborn, 3 Minutes of Hate, ZeroPointOne, Procession Came Opposite, Aniasin, An Awkward Silence	| 	Rockin' Ricks, Limestone, NY
-Hello, Star Vega |	2/25/2006	|	N/A		| Club Destiny, Lakewood, NY
+Hello, Star Vega |	2/25/2006	|			| Club Destiny, Lakewood, NY
 Hello, Star Vega |	3/4/2006	|	*Salamanca Skate Park Fundraiser* w/ Awkward Silence, Everything and You, ZeroPointOne	| 	St. Pats, Salamanca, NY
 Hello, Star Vega |	3/18/2006	|	From This day, The Swarm, Apology, Anmesty Box, In August, Everything Ends	| 	Ray-D-O's, Gowanda, NY
-Hello, Star Vega |	3/22/2006	|	N/A		| The Mohawk Place, Buffalo, NY
+Hello, Star Vega |	3/22/2006	|			| The Mohawk Place, Buffalo, NY
 Hello, Star Vega |	4/16/2006	|	 	| The Rusty Nail, Jamestown, NY
 Hello, Star Vega |	6/16/2006	|	Aniasin, 3 Minutes of Hate	| 	The Rusty Nail, Jamestown, NY
 Hello, Star Vega |	6/24/2006	|	Rosetta, Day Without Dawn, Everything and You, Everything Ends	| 	Allegany Skate Park, Allegany, NY
