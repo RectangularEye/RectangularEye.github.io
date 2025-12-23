@@ -132,7 +132,7 @@ IONCinema, 2011-2016
 | Group |	Date |	Bill |	Venue |
 | ---------------|-------|-------|--------|
 Hello, Star Vega |	4/23/2005	| Junius, ZeroPointOne, Tears of Tomorrow, Up From Here	| Rockin' Rick's, Limestone, NY
-Hello, Star Vega |	4/29/2005	|	Fred Fest w/ ZeroPointOne, Tears of Tomorrow, Marion	| 	Rockin' Rhi's Crazy Train, Fredonia, NY
+Hello, Star Vega |	4/29/2005	|	*Fred Fest* w/ ZeroPointOne, Tears of Tomorrow, Marion	| 	Rockin' Rhi's Crazy Train, Fredonia, NY
 Hello, Star Vega |	4/30/2005	|	ZeroPointOne, Sugoc, Amber Drive	| 	The Coliseum, Ceres, NY
 Hello, Star Vega |	5/18/2005	|	Greyscale, New Skin, ZeroPointOne		| Rockin' Ricks, Limestone, NY
 Hello, Star Vega |	5/24/2005	|	STEMM, ZeroPointOne, Triggerpoint, An Awkward Silence, Yours Truly	| 	Rockin' Ricks, Limestone, NY
@@ -153,11 +153,11 @@ Hello, Star Vega |	10/25/2005|	Junius, Everything and You	| 	Rockin' Rick's, Lim
 Hello, Star Vega |	12/2/2005	|	Vera, The Missing Planes, The Frodis Caper, About Time		| Buffalo State College, Student Union, Buffalo, NY
 Hello, Star Vega |	12/9/2005	|	Lowercase, Until Mourning, Morning After Twilight, Grave Demand, Fearing the Forgotten	| 	Frewsburg Central School, Frewsburg, NY
 Hello, Star Vega |	12/10/2005	|	Danny Diablo, Ringworm, Agents of Man, Rivalry	| 	The Mohawk Place, Buffalo, NY
-Hello, Star Vega |	12/17/2005	|	A Very Metal Christmas w/ STEMM, Zeropointone, Greyscale, Waiting For Never, Entropys End, Thoughts Lost, Anaisin, Custom Gauge, An Awkward Silence	| 	Rockin' Ricks, Limestone, NY
+Hello, Star Vega |	12/17/2005	|	*A Very Metal Christmas* w/ STEMM, Zeropointone, Greyscale, Waiting For Never, Entropys End, Thoughts Lost, Anaisin, Custom Gauge, An Awkward Silence	| 	Rockin' Ricks, Limestone, NY
 Hello, Star Vega |	1/27/2006	|	Trust In Chariots, ZeroPointOne, Aniasin, An Awkward Silence	| 	Old Hickory Lanes, Coudersport, NY
 Hello, Star Vega |	2/11/2006	|	Fireborn, 3 Minutes of Hate, ZeroPointOne, Procession Came Opposite, Aniasin, An Awkward Silence	| 	Rockin' Ricks, Limestone, NY
 Hello, Star Vega |	2/25/2006	|	N/A		| Club Destiny, Lakewood, NY
-Hello, Star Vega |	3/4/2006	|	Salamanca Skate Park Fundraiser w/ Awkward Silence, Everything and You, ZeroPointOne	| 	St. Pats, Salamanca, NY
+Hello, Star Vega |	3/4/2006	|	*Salamanca Skate Park Fundraiser* w/ Awkward Silence, Everything and You, ZeroPointOne	| 	St. Pats, Salamanca, NY
 Hello, Star Vega |	3/18/2006	|	From This day, The Swarm, Apology, Anmesty Box, In August, Everything Ends	| 	Ray-D-O's, Gowanda, NY
 Hello, Star Vega |	3/22/2006	|	N/A		| The Mohawk Place, Buffalo, NY
 Hello, Star Vega |	4/16/2006	|	 	| The Rusty Nail, Jamestown, NY
@@ -172,10 +172,10 @@ Hello, Star Vega |	10/31/2006	|	Intronaut		| Reg Lenna Studio Theater, Jamestown
 Hello, Star Vega |	3/3/2007	|	Trophy Scars, Imperial, Her Candane	| 	Rockin' Rick's, Limestone, NY
 Hello, Star Vega |	7/25/2007	|			| 
 Hello, Star Vega |	10/28/2007	|	Everything and You		| Dunkirk, NY
-Stress Dolls |	1/21/2022	|	Forward' Album Release Show w/ Velvet Bethany		| The Cave, Buffalo, NY
+Stress Dolls |	1/21/2022	|	*'Forward' Album Release Show* w/ Velvet Bethany		| The Cave, Buffalo, NY
 Stress Dolls |	2/4/2022	|	Grosh	| 	Jack Rabbit, Buffalo, NY
-Stress Dolls |	6/12/2022	|	Allentown Art Festival		| Nietzsche's, Buffalo, NY
-Stress Dolls |	8/28/2022	|	Beau Fleuve Music & Arts Festival		| Central Terminal, Buffalo, NY
+Stress Dolls |	6/12/2022	|	*Allentown Art Festival*		| Nietzsche's, Buffalo, NY
+Stress Dolls |	8/28/2022	|	*Beau Fleuve Music & Arts Festival*		| Central Terminal, Buffalo, NY
 Stress Dolls |	10/18/2022	|	Moving Targets, Starjuice, Garfrankel	| 	Mohawk Place, Buffalo, NY
 Stress Dolls |	10/26/2022	|	Tsunami Tsurprise, Velvet Bethany		| Nineth Ward, Buffalo, NY
 Stress Dolls |	12/22/2022	|	Last Night Songs		| Revolution Gallery, Buffalo, NY
@@ -184,7 +184,7 @@ Stress Dolls |	2/3/2023	|	Checks and Exes, Lower Expectations	| 	Bug Jar, Roches
 Stress Dolls |	3/10/2023	|	Farrow, Marina Laurendi	| 	Rec Room, Buffalo, NY
 Stress Dolls |	3/15/2023	|	Soraia, The Idiot Kids, Starjuice	| 	Mohawk Place, Buffalo, NY
 Stress Dolls |	4/15/2023	|	Uncanny Valley, Kid.Tigrrr		| Happy Dog, Cleveland, OH
-Stress Dolls (duo) |	4/20/2023	|	Appearance on The Local Lo-Down		| 88.9 FM WCVF The Voice, Fredonia, NY
+Stress Dolls (duo) |	4/20/2023	|	*Appearance on The Local Lo-Down*		| 88.9 FM WCVF The Voice, Fredonia, NY
 Stress Dolls |	5/6/2023	|	Grosh, Ozolith, Wreck Like Me	| 	Coda, Cleveland, OH
 Stress Dolls |	6/9/2023	|	Cooler, Tsunami Tsurprise, Starjuice		| Town Ballroom, Buffalo, NY
 Stress Dolls |	7/14/2023	|	Our Lady Peace, The Trews	| 	Outer Harbor, Buffalo, NY
@@ -206,16 +206,16 @@ Stress Dolls |	3/1/2024	|	Ace of Wands, Tuesday Nite		| Mohawk Place, Buffalo, N
 Stress Dolls |	3/29/2024	|		|  Grounds for Change, Meadville, PA
 Stress Dolls |	4/14/2024	|	Prarie Pavement, TTTT	| 	Lucky Lanes, Fredonia, NY
 Stress Dolls |	4/26/2024	|	Castle Black, Goodbye Metro, Velvet Bethany 	| 	Mohawk Place, Buffalo, NY
-Stress Dolls |	5/17/2024	|	Queen Of No' Record Release Party w/ Sons of Luther	| 	Revolution Gallery, Buffalo, NY
+Stress Dolls |	5/17/2024	|	*'Queen Of No' Record Release Party* w/ Sons of Luther	| 	Revolution Gallery, Buffalo, NY
 Stress Dolls (duo) |	5/19/2024	|	In-Store		| Hi-Fi Hits Records, Williamsville, NY
 Stress Dolls |	5/23/2024	|	Girl Cologne, The Shoehorns, Blue Hour	| 	Beachland Ballroom, Cleveland, OH
 Stress Dolls |	5/25/2024	|	Middle Names, Loveseat		| The Brass Rail, Fort Wayne, IN
 Stress Dolls |	5/26/2024	|	Almost There But Not Really		| Burlington Bar, Chicago, IL
-Solo |	5/27/2024	|	Drone Day w/ Hundreds of Seabirds, Max Davis, Steve Flato, Sallyandra, Mark Milanovich		| Downtown Central Library, Buffalo, NY
-Stress Dolls |	6/8/2024	|	East Aurora Music Festival		| Wallenwein's Hotel, East Aurora, NY
+Solo |	5/27/2024	|	*Drone Day* w/ Hundreds of Seabirds, Max Davis, Steve Flato, Sallyandra, Mark Milanovich		| Downtown Central Library, Buffalo, NY
+Stress Dolls |	6/8/2024	|	*East Aurora Music Festival*		| Wallenwein's Hotel, East Aurora, NY
 Stress Dolls |	7/2/2024	|	Food Truck Tuesday	| 	Larkin Square, Buffalo, NY
 Stress Dolls |	7/19/2024	|	Honeycrush, Dogs in Stereo	| 	Nineth Ward, Buffalo, NY
-Stress Dolls (duo) |	7/26/2024	|	Disability Pride Fest		| Canalside, Buffalo, NY
+Stress Dolls (duo) |	7/26/2024	|	*Disability Pride Fest*		| Canalside, Buffalo, NY
 Stress Dolls |	8/24/2024	|	The Cynz, Perilous, Rattle Bones	| 	The Cave, Buffalo, NY
 Stress Dolls |	9/20/2024	|	Grosh, Ohayo, Black Wolf & The Thief, Taylor Hollingsworth		| Westside Bowl, Youngstown, OH
 Stress Dolls |	11/21/2024	|	Kasador, Addisyn Logan	| 	The Caz, Buffalo, NY
@@ -223,14 +223,14 @@ Stress Dolls |	3/8/2025	|	Paper Rabbit, Chores	| 	The Cave, Buffalo, NY
 Stress Dolls |	4/4/2025	|	Paper Rabbit, Chores		| Funk 'n Waffles, Syracuse, NY
 Stress Dolls |	5/16/2025	|	Black Wolf & The Thief	| 	Jack Rabbit, Buffalo, NY
 Stress Dolls |	6/28/2025	|	Tugboat Annie, Black Jacket, Gathering Ground		| Electric City, Buffalo, NY
-Stress Dolls |	7/24/2025	|	Thursday & Main w/ The Sheila Divine	| 	Fountain Plaza, Buffalo, NY
+Stress Dolls |	7/24/2025	|	*Thursday & Main* w/ The Sheila Divine	| 	Fountain Plaza, Buffalo, NY
 Personal Style |	8/21/2025	|	Chimes of Bayonets, Idle Era		| No Fun, Troy, NY
 Personal Style |	8/22/2025	|	Chimes of Bayonets, Jesse Taylor Band, Star Farm	| 	Odd Fellows Hall, Burlington VT
 Personal Style |	8/23/2025	|	Chimes of Bayonets, Traders, Dwelley	| 	O'Brien's, Boston, MA
 Personal Style |	8/24/2025	|	Chimes of Bayonets, Sun Urchins, Crossbite		| Buttonwoods Brewery, Providence, RI
 Personal Style |	9/6/2025	|	Goodbye Metro, Different Planets, Pam Swarts, Mookie, DJ Handsome Dan	| 	Mr. Goodbar, Buffalo, NY
 Stress Dolls |	9/19/2025	|	Bile Study, Muddle	| 	Lavhole, Buffalo, NY
-Stress Dolls |	10/4/2025	|	Theyfest 2025	| 	Amy's Place, Buffalo, NY
+Stress Dolls |	10/4/2025	|	*Theyfest 2025*	| 	Amy's Place, Buffalo, NY
 Personal Style |	11/15/2025	|	Lower Pony, Uniform Operator, Headbutt	| 	Milkie's, Buffalo, NY
 
 ## memberships
