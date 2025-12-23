@@ -129,8 +129,8 @@ IONCinema, 2011-2016
 
 ## live performances
 
-| Group |	Date |	Bill |	Venue |
-| ---------------|-------|-------|--------|
+|  Group |	Date |	Bill |	Venue |
+| ---------------------|-------|-------|--------|
 Hello, Star Vega |	4/23/2005	| Junius, ZeroPointOne, Tears of Tomorrow, Up From Here	| Rockin' Rick's, Limestone, NY
 Hello, Star Vega |	4/29/2005	|	*Fred Fest* w/ ZeroPointOne, Tears of Tomorrow, Marion	| 	Rockin' Rhi's Crazy Train, Fredonia, NY
 Hello, Star Vega |	4/30/2005	|	ZeroPointOne, Sugoc, Amber Drive	| 	The Coliseum, Ceres, NY
@@ -230,7 +230,7 @@ Personal Style |	8/23/2025	|	Chimes of Bayonets, Traders, Dwelley	| 	O'Brien's, 
 Personal Style |	8/24/2025	|	Chimes of Bayonets, Sun Urchins, Crossbite		| Buttonwoods Brewery, Providence, RI
 Personal Style |	9/6/2025	|	Goodbye Metro, Different Planets, Pam Swarts, Mookie, DJ Handsome Dan	| 	Mr. Goodbar, Buffalo, NY
 Stress Dolls |	9/19/2025	|	Bile Study, Muddle	| 	Lavhole, Buffalo, NY
-Stress Dolls |	10/4/2025	|	*Theyfest 2025*	| 	Amy's Place, Buffalo, NY
+Stress Dolls  |	10/4/2025	|	*Theyfest 2025*	| 	Amy's Place, Buffalo, NY
 Personal Style |	11/15/2025	|	Lower Pony, Uniform Operator, Headbutt	| 	Milkie's, Buffalo, NY
 
 ## memberships
