@@ -166,7 +166,8 @@ Hello, Star Vega |	6/24/2006	|	Rosetta, Day Without Dawn, Everything and You, Ev
 Hello, Star Vega |	7/22/2006	|	Intronaut, Mouth of the Architect, Century		| The Basement, Olean, NY
 Hello, Star Vega |	7/23/2006	|	Dead Hearts, Everything And You, Killing the Dream, Ruiner	| 	Dunkirk Boys and Girls Club, Dunkirk, NY
 Hello, Star Vega |	9/16/2006	|	Everything Ends, I Am Frankie Scrapmetal	| 	Club Fuzion, Salamanca, NY
-Hello, Star Vega |	10/6/2006	|	 	| 	BJ's, Fredonia, NY
+Hello, Star Vega	| 9/28/2006 |	Fire When Ready |	BJ's, Fredonia, NY
+Hello, Star Vega |	10/14/2006	|	Rockin' Ricks, Limestone, NY
 Hello, Star Vega |	10/21/2006	|	Gaza, The Network, Thumbscrew	| 	Hartfield Bay Cafe, Mayville, NY
 Hello, Star Vega |	10/31/2006	|	Intronaut		| Reg Lenna Studio Theater, Jamestown, NY
 Hello, Star Vega |	3/3/2007	|	Trophy Scars, Imperial, Her Candane	| 	Rockin' Rick's, Limestone, NY
