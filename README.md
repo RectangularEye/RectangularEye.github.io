@@ -140,12 +140,12 @@ Hello, Star Vega |	6/4/2005	|	Trophy Scars, Ambry, ZeroPointOne, Up From Here	| 
 Hello, Star Vega |	6/25/2005	|	The Number 12 Looks Like You	| 	Allegany Skate Park, Allegany, NY
 Hello, Star Vega |	6/28/2005	| 	| 	The Coliseum, Ceres, NY
 Hello, Star Vega |	7/9/2005	|	And Then There Were None, ZeroPointOne, Stitches Torn Away	| 	Rockin' Rick's, Limestone, NY
-Hello, Star Vega |	7/24/2005	|	Soundtrack Makes The Movie, Psycosm II, Custom Gauge, Come The Dawn, Mosin Nagant, An Awkward Silence, ZeroPointOne Greyscale		| Rockin' Rick's, Limestone, NY
+Hello, Star Vega |	7/24/2005	|	Soundtrack Makes The Movie, Psycosm II, Custom Gauge, Come The Dawn, Mosin Nagant, An Awkward Silence, ZeroPointOne, Greyscale		| Rockin' Rick's, Limestone, NY
 Hello, Star Vega |	8/6/2005	|	Shaingo, The Surfing Stripes, Odium	| 	Ray-D-O's, Gowanda, NY
 Hello, Star Vega |	8/8/2005	|	Lao, Born Empty, An Awkward Silence		| Rockin' Rick's, Limestone, NY
 Hello, Star Vega |	8/14/2005	|	Lock and Key, Crimes of Passion, Outsmarting Simon, Czech Mates	| 	Broadway Joe's, Buffalo, NY
 Hello, Star Vega |	8/27/2005	|	Itchy Boy n The Cobras, The Apology, Crimes of Passion 	| 	Northern Chautauqua Catholic School, Dunkirk, NY
-Hello, Star Vega |	9/18/2005	|	Crushfest 2005		| Rockin' Rick's, Limestone, NY
+Hello, Star Vega |	9/18/2005	|	*Crushfest 2005*		| Rockin' Rick's, Limestone, NY
 Hello, Star Vega |	9/30/2005	|	Entropy's End, Kick Williams, Crimes of Passion	| 	Rockin' Rick's, Limestone, NY
 Hello, Star Vega |	10/6/2005	|	The Capitals, Gonculator	| 	BJ's, Fredonia, NY
 Hello, Star Vega |	10/8/2005	|	Crimes of Passion, Go For The Kill, ZeroPointOne		| Ray-D-O's, Gowanda, NY
