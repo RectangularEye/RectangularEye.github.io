@@ -191,7 +191,7 @@ Stress Dolls |	5/6/2023	|	Grosh, Ozolith, Wreck Like Me	| 	Coda, Cleveland, OH
 Stress Dolls |	6/9/2023	|	Cooler, Tsunami Tsurprise, Starjuice		| Town Ballroom, Buffalo, NY
 Stress Dolls |	7/14/2023	|	Our Lady Peace, The Trews	| 	Outer Harbor, Buffalo, NY
 Stress Dolls |	7/15/2023	|	Snakeland and Quaker Gun Club	| 	The Cave, Buffalo, NY
-Stress Dolls |	8/4/2023	|	Letter To Elise, Dead Orchids	| 	Nietzsche's, Buffalo, NY
+Stress Dolls |	8/4/2023	|	Letter To Elise, Dead Orchids, Personal Style	| 	Nietzsche's, Buffalo, NY
 Stress Dolls |	9/2/2023	|	Amphette, Mimicking Mars	| 	Funk 'n Waffles, Syracuse, NY
 Stress Dolls |	9/15/2023	|	Milo Duhn, The Weather Might Say Otherwise, Rugrat Rehab	| 	Lavender Room, Buffalo, NY
 Stress Dolls |	9/22/2023	|	Lupis, Zero Level		| Bug Jar, Rochester, NY
