@@ -10,9 +10,6 @@ located in Buffalo, NY
 [Launch Pad Makerspace](https://www.buffalolib.org/makerspace-technology/launch-pad) \
 Central Downtown Library, Buffalo & Erie County Public Library, 2015-
 
-[The library's Makerspace: where creativity can come to life](https://buffalo.com/community/the-librarys-makerspace-where-creativity-can-come-to-life/article_d311cb16-c0d2-11ef-80f1-73d6377e1154.html#tracking-source=home-top-story) \
-Buffalo Magazine, 2024
-
 [Introduction to Creating Makerspaces in Libraries](https://wnylrc.org/event/introduction-creating-makerspaces-libraries) \
 Western New York Library Resources Council, 2022
 
@@ -114,6 +111,7 @@ IONCinema, 2011-2016
 [The Music Box: New Urge Surfer release coming soon](https://thebuffalohive.com/the-music-box-new-urge-surfer-release-coming-soon/) The Buffalo Hive, 2025\
 [Field Recording Initiative – Buffalo Field Recording Treasure Hunt](https://hissandaroar.com/v3/field-recording-initiative-buffalo-field-recording-treasure-hunt/) Hiss and Roar, 2025\
 [716: The Sound Episode 17: Jordan Smith](https://www.hardlyawesomestudios.com/716-the-sound/episode-17-jordan-smith) 716: The Sound, 2025\
+[The library's Makerspace: where creativity can come to life](https://buffalo.com/community/the-librarys-makerspace-where-creativity-can-come-to-life/article_d311cb16-c0d2-11ef-80f1-73d6377e1154.html#tracking-source=home-top-story) Buffalo Magazine, 2024\
 [Urge Surfer Set to Drop Compelling New EP, 'Alphabet Archive'](https://www.1120press.com/post/urge-surfer-set-to-drop-compelling-new-ep-alphabet-archive) 1120 Press, 2024\
 [The Local Lo-Down - Stress Dolls](https://rectangulareye.github.io/) WCVF 88.9 FM, 2023\
 [Catching up with local favorites](https://www.buffalospree.com/arts_entertainment/film/catching-up-with-local-favorites/article_64195de0-c0bd-11ec-b4aa-ef3db4f724d7.html) Buffalo Spree, 2022\
