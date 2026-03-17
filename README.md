@@ -129,6 +129,13 @@ IONCinema, 2011-2016
 
 |  Group |	Date |	Bill |	Venue |
 | ---------------------|-------|-------|--------|
+Stress Dolls | 5/24/2026 | Halfstride, Praire Pavement, El Covito | Buffalo Ironworks, Buffalo, NY
+Personal Style | 4/12/2026 | *Ithaca D.I.Y. Fest* w/ Welks Mice | Downtown, Ithaca, NY
+Personal Style | 4/11/2026 | Welks Mice | Partners & Son, Philadelphia, PA
+Personal Style | 4/10/2026 | Welks Mice | The Fridge, Washington, DC
+Personal Style | 4/9/2026 | Welks Mice | Revolver Records Elmwood, Buffalo, NY
+Stress Dolls | 3/28/2026 | Faith2Fear, Megan From Work, The Deadnames | Bug Jar, Rochester, NY
+Stress Dolls | 3/21/2026 | Spud | Third Space, Buffalo, NY
 Personal Style |	11/15/2025	|	Lower Pony, Uniform Operator, Headbutt	| 	Milkie's, Buffalo, NY
 Stress Dolls  |	10/4/2025	|	*Theyfest 2025*	| 	Amy's Place, Buffalo, NY
 Stress Dolls |	9/19/2025	|	Bile Study, Muddle	| 	Lavhole, Buffalo, NY
