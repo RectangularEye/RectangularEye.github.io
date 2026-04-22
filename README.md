@@ -35,6 +35,7 @@ located in Buffalo, NY
 2006
 
 
+
 ## video
 
 [What Valerie Makes](https://www.youtube.com/@what_valerie_makes/videos)
@@ -57,6 +58,7 @@ located in Buffalo, NY
 2013, 4 min
 
 
+
 ## film journalism
 
 [Monday Memo](https://www.docnyc.net/monday-memo/)
@@ -75,6 +77,7 @@ Buffalo Rising, 2012\
 IONCinema, 2011-2016
 
 
+
 ## film curation
 
 [Weekend Watch](https://www.docnyc.net/weekend-watch/) DOC NYC, 2021-\
@@ -82,6 +85,8 @@ IONCinema, 2011-2016
 2015-2023\
 [Influence Film Club](http://influencefilmclub.com/)
 2014-2018
+
+
 
 ## press
 
@@ -104,6 +109,8 @@ IONCinema, 2011-2016
 [Returnings to Life: The Apu Trilogy in Buffalo](https://www.criterion.com/current/posts/3848-returnings-to-life-the-apu-trilogy-in-buffalo?srsltid=AfmBOooPmyKugmyzgm9SLHrNqQcyM-mxt2zdq2HfIs0ZoiqSAm5ECvk0) The Criterion Collection's Current, 2015\
 [Will the circle be unbroken?](https://cultivatecinema.com/wp-content/uploads/2024/06/0ca56-091715-artvoice-article2.png?w=805&h=1024) Artvoice, 2015\
 [Hello, Star Vega – The Casino’s Wake (review)](https://verbicidemagazine.com/hello-star-vega-the-casino%E2%80%99s-wake/) Verbicide, 2006
+
+
 
 ## live performances
 
@@ -222,6 +229,7 @@ Hello, Star Vega |	4/29/2005	|	*Fred Fest* w/ ZeroPointOne, Tears of Tomorrow, M
 Hello, Star Vega |	4/23/2005	| Junius, ZeroPointOne, Tears of Tomorrow, Up From Here	| Rockin' Rick's, Limestone, NY
 
 
+
 ## library
 
 [Launch Pad Makerspace](https://www.buffalolib.org/makerspace-technology/launch-pad) \
@@ -241,6 +249,7 @@ Play Make Learn Conference, University of Wisconsin-Madison, 2019
 
 [You Are The Library](https://www.insideoutproject.net/en/explore/group-action/buffalo-you-are-the-library) \
 Central Downtown Library, Buffalo & Erie County Public Library, 2018
+
 
 
 ## memberships
