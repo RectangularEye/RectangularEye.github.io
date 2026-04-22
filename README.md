@@ -37,8 +37,6 @@ located in Buffalo, NY
 
 ## video
 
-[What Valerie Makes](https://www.youtube.com/@what_valerie_makes/videos)
-2023-\
 [Urge Surfer - Cursed (Music Video)](https://www.youtube.com/watch?v=SU_BdnUDRQA)
 2022, 3 min\
 [The Pan Man](https://www.youtube.com/watch?v=l8GrXcWCD6Y)
