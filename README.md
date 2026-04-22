@@ -19,7 +19,7 @@ located in Buffalo, NY
 ### Stress Dolls
 [Forward](https://stressdolls.bandcamp.com/album/forward)
 2022
-
+\
 ### Vega Vinyl
 
 [East Of The Wall / Year Of No Light / Rosetta - Split](https://www.discogs.com/master/255304-East-Of-The-Wall-Year-Of-No-Light-Rosetta-East-Of-The-Wall-Year-Of-No-Light-Rosetta) 2010\
