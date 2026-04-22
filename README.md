@@ -2,28 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29" alt="Jordan" width="305"/>
 
-librarian // musician // video editor // journalist // curator\
+musician // video editor // journalist // curator // librarian\
 located in Buffalo, NY
-
-## library
-
-[Launch Pad Makerspace](https://www.buffalolib.org/makerspace-technology/launch-pad) \
-Central Downtown Library, Buffalo & Erie County Public Library, 2015-
-
-[Introduction to Creating Makerspaces in Libraries](https://wnylrc.org/event/introduction-creating-makerspaces-libraries) \
-Western New York Library Resources Council, 2022
-
-[Assessment in Library Makerspaces: Opportunities and Challenges](https://connectedlearningsummit2019.sched.com/speaker/jordan_m_smith.1zufk0pg) \
-Connected Learning Summit, University of California, Irvine, CA, 2019
-
-[An assessment Matrix for library Makerspaces](https://www.sciencedirect.com/science/article/pii/S0740818818302913) \
-Library & Information Science Research, 2019
-
-[Assessments in Library Makerspaces: The Audience is Everyone!](https://custom.cvent.com/57A95AEBA7D746DB83F8C2B8649A8B93/files/event/f0d9395efb6a427c9fb1bf2b72d48d5d/356a0928f95b4b85aaa6a99d50c571f2.pdf) \
-Play Make Learn Conference, University of Wisconsin-Madison, 2019 
-
-[You Are The Library](https://www.insideoutproject.net/en/explore/group-action/buffalo-you-are-the-library) \
-Central Downtown Library, Buffalo & Erie County Public Library, 2018
 
 
 ## music
@@ -240,6 +220,27 @@ Hello, Star Vega |	5/18/2005	|	Greyscale, New Skin, ZeroPointOne		| Rockin' Rick
 Hello, Star Vega |	4/30/2005	|	ZeroPointOne, Sugoc, Amber Drive	| 	The Coliseum, Ceres, NY
 Hello, Star Vega |	4/29/2005	|	*Fred Fest* w/ ZeroPointOne, Tears of Tomorrow, Marion	| 	Rockin' Rhi's Crazy Train, Fredonia, NY
 Hello, Star Vega |	4/23/2005	| Junius, ZeroPointOne, Tears of Tomorrow, Up From Here	| Rockin' Rick's, Limestone, NY
+
+
+## library
+
+[Launch Pad Makerspace](https://www.buffalolib.org/makerspace-technology/launch-pad) \
+Central Downtown Library, Buffalo & Erie County Public Library, 2015-
+
+[Introduction to Creating Makerspaces in Libraries](https://wnylrc.org/event/introduction-creating-makerspaces-libraries) \
+Western New York Library Resources Council, 2022
+
+[Assessment in Library Makerspaces: Opportunities and Challenges](https://connectedlearningsummit2019.sched.com/speaker/jordan_m_smith.1zufk0pg) \
+Connected Learning Summit, University of California, Irvine, CA, 2019
+
+[An assessment Matrix for library Makerspaces](https://www.sciencedirect.com/science/article/pii/S0740818818302913) \
+Library & Information Science Research, 2019
+
+[Assessments in Library Makerspaces: The Audience is Everyone!](https://custom.cvent.com/57A95AEBA7D746DB83F8C2B8649A8B93/files/event/f0d9395efb6a427c9fb1bf2b72d48d5d/356a0928f95b4b85aaa6a99d50c571f2.pdf) \
+Play Make Learn Conference, University of Wisconsin-Madison, 2019 
+
+[You Are The Library](https://www.insideoutproject.net/en/explore/group-action/buffalo-you-are-the-library) \
+Central Downtown Library, Buffalo & Erie County Public Library, 2018
 
 
 ## memberships
