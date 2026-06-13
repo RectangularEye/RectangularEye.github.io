@@ -8,7 +8,7 @@ located in Buffalo, NY
 
 ## music
 
-### Solo Film Scoring
+### Film Scoring
 [Examples](https://jordanmaelynsmith.disco.ac/playlist-new/28889869?date=20260422&user_id=3306138&signature=TZW3yKtcrAA8Kidu6J5S6ZKsWmg%3AaglHmyox) 2026
 
 ### Urge Surfer
