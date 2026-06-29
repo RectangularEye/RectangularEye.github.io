@@ -116,6 +116,7 @@ IONCinema, 2011-2016
 
 |  Group |	Date |	Bill |	Venue |
 | ---------------------|-------|-------|--------|
+Stress Dolls (duo) | 6/25/2026 | Sara Elizabeth, Matches Laces | Mammoth Recording Studios, Buffalo, NY
 Stress Dolls | 5/24/2026 | Halfstride, Praire Pavement, El Covito | Buffalo Ironworks, Buffalo, NY
 Personal Style | 5/8/2026 | Light Beams, Chimes of Bayonets, Welks Mice, Steve Baczkowski & David Bailey | Milkie's, Buffalo, NY
 Personal Style | 4/12/2026 | *Ithaca D.I.Y. Fest* w/ Welks Mice, Material Objects | Downtown, Ithaca, NY
