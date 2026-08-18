@@ -12,6 +12,8 @@ located in Buffalo, NY
 [Examples](https://jordanmaelynsmith.disco.ac/playlist-new/28889869?date=20260422&user_id=3306138&signature=TZW3yKtcrAA8Kidu6J5S6ZKsWmg%3AaglHmyox) 2026
 
 ### Urge Surfer
+[Camp Club](https://urgesurfer.bandcamp.com/album/camp-club)
+2026\
 [Misnomers](https://urgesurfer.bandcamp.com/album/misnomers)
 2025\
 [Alphabet Archive](https://urgesurfer.bandcamp.com/album/alphabet-archive)
