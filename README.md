@@ -121,7 +121,7 @@ IONCinema, 2011-2016
 | ---------------------|-------|-------|--------|
 Stress Dolls | 10/11/2026 | O+ Festival | Snapper Magee's, Kingston, NY
 Stress Dolls | 9/11/2026 | Surrogates, Faith to Fear, Ice Holez | Pink Rock Culture Co-op, Syracuse, NY
-Personal Style | 8/23/2026 | Chimes of Bayonets | The Spotlight, St. Catherines, ON
+Personal Style | 8/23/2026 | Chimes of Bayonets, Mitten, Eeyore | Spotlight Comedy, St. Catherines, ON
 Personal Style | 8/22/2026 | Chimes of Bayonets, Class of 91, Aspect Lisse, Seraphine's Cleaver | Avant Garde Bar, Ottawa, ON
 Personal Style | 8/21/2026 | Chimes of Bayonets, Bbark, Art Grey | P'tit Ours, Montréal, QC
 Personal Style | 8/20/2026 | Chimes of Bayonets, Lost Unit, Oust | The Flat Top, Toronto, ON
