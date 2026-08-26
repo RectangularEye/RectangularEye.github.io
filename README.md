@@ -120,14 +120,14 @@ IONCinema, 2011-2016
 
 |  Group |	Date |	Bill |	Venue |
 | ---------------------|-------|-------|--------|
-Stress Dolls | 10/11/2026 | O+ Festival | Snapper Magee's, Kingston, NY
+Stress Dolls | 10/11/2026 | *O+ Festival* | Snapper Magee's, Kingston, NY
 Stress Dolls | 9/11/2026 | Surrogates, Faith to Fear, Ice Holez | Pink Rock Culture Co-op, Syracuse, NY
 Personal Style | 8/23/2026 | Chimes of Bayonets, Mitten, Eeyore | Spotlight Comedy, St. Catherines, ON
 Personal Style | 8/22/2026 | Chimes of Bayonets, Class of 91, Aspect Lisse, Seraphine's Cleaver | Avant Garde Bar, Ottawa, ON
 Personal Style | 8/21/2026 | Chimes of Bayonets, Bbark, Art Grey | P'tit Ours, Montréal, QC
 Personal Style | 8/20/2026 | Chimes of Bayonets, Lost Unit, Oust | The Flat Top, Toronto, ON
 Stress Dolls | 7/25/2026 | Couch Potato Massacre, Spacious Basement, Connemara Social Club | CA Brew Haus, Rochester, NY
-Stress Dolls (duo) | 7/24/2026 | Disability Pride Festival | Buffalo Riverworks, Buffalo, NY
+Stress Dolls (duo) | 7/24/2026 | *Disability Pride Festival* | Buffalo Riverworks, Buffalo, NY
 Stress Dolls (duo) | 6/25/2026 | Sara Elizabeth, Matches Laces | Mammoth Recording Studios, Buffalo, NY
 Stress Dolls | 5/24/2026 | Halfstride, Praire Pavement, El Covito | Buffalo Ironworks, Buffalo, NY
 Personal Style | 5/8/2026 | Light Beams, Chimes of Bayonets, Welks Mice, Steve Baczkowski & David Bailey | Milkie's, Buffalo, NY
