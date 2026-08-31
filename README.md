@@ -120,6 +120,8 @@ IONCinema, 2011-2016
 
 |  Group |	Date |	Bill |	Venue |
 | ---------------------|-------|-------|--------|
+Stress Dolls | 11/6/2026 | *Loud Women Festival* | Baby G's, Toronto, ON
+Stress Dolls | 10/25/2026 | *Bye Week Ball* w/ DP & Sanctified Funk, Grosh, Grub, David Jonathan & The Inner City Bedlam, Pocketship, Johnny Hart & The Mess, BEÜ | Town Ballroom, Buffalo, NY
 Stress Dolls | 10/11/2026 | *O+ Festival* | Snapper Magee's, Kingston, NY
 Stress Dolls | 9/11/2026 | Surrogates, Faith to Fear, Ice Holez | Pink Rock Culture Co-op, Syracuse, NY
 Personal Style | 8/23/2026 | Chimes of Bayonets, Mitten, Eeyore | Spotlight Comedy, St. Catherines, ON
