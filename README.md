@@ -92,6 +92,7 @@ IONCinema, 2011-2016
 
 ## press
 
+[Urge Surfer – Camp Club (review)](https://buffablog.com/urge-surfer-camp-club/) BuffaBlog, 2026\
 [Urge Surfer Drop Camp Club](https://loudwomen.org/2026/08/31/urge-surfer-drop-camp-club/) Loud Women, 2026\
 [Guitars, Metal Detectors and Kayaks: They're All Waiting at Your Local Library](https://buffalonews.com/news/local/article_9f24c5b4-edcc-47b6-bf01-ed0eb5a64670.html#tracking-source=home-top-story) Buffalo News, 2026\
 [Buffalo electro-pop duo Urge Surfer releases new project ‘Misnomers’](https://www.wivb.com/news/web-exclusive/buffalo-jukebox/buffalo-electro-pop-duo-urge-surfer-releases-new-project-misnomers/) WIVB Channel 4, 2025\
