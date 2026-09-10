@@ -9,7 +9,7 @@ located in Buffalo, NY
   <a href="#music">music</a> //
   <a href="#video">video</a> //
   <a href="#journalism">journalism</a> //
-  <a href="#curation">Curation</a> //
+  <a href="#curation">curation</a> //
   <a href="#press">press</a> //
   <a href="#live-performances">live performances</a> //
   <a href="#librarianship">librarianship</a> //
