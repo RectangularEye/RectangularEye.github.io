@@ -51,7 +51,6 @@ located in Buffalo, NY
 
 ### Engineering
 [Marissa Paternoster feat. Sheena Ozzella - *Swallowing the Stars*](https://www.patreon.com/MarissaPaternoster) 2026
-</div>
 
 ## video
 
