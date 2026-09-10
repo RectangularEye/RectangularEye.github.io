@@ -23,8 +23,7 @@ located in Buffalo, NY
 [Examples](https://jordanmaelynsmith.disco.ac/playlist-new/28889869?date=20260422&user_id=3306138&signature=TZW3yKtcrAA8Kidu6J5S6ZKsWmg%3AaglHmyox) 2026
 
 ### Engineering
-[Marissa Paternoster feat. Sheena Ozzella - *Swallowing the Stars*_](https://www.patreon.com/MarissaPaternoster)
-2026
+[Marissa Paternoster feat. Sheena Ozzella - *Swallowing the Stars*](https://www.patreon.com/MarissaPaternoster) 2026
 </div>
 
 ### Urge Surfer
