@@ -5,8 +5,20 @@
 musician // video editor // journalist // curator // librarian\
 located in Buffalo, NY
 
+<nav class="cv-nav">
+  <a href="#music">Music</a>
+  <a href="#video">Video</a>
+  <a href="#journalism">Journalism</a>
+  <a href="#curation">Curation</a>
+  <a href="#press">Press</a>
+  <a href="#performances">Live Performances</a>
+  <a href="#library">Librarianship</a>
+  <a href="#memberships">Professional Memberships</a>
+  <a href="#contact">Contact</a>  
+</nav>
 
 ## music
+<div id="music">
 
 ### Film Scoring
 [Examples](https://jordanmaelynsmith.disco.ac/playlist-new/28889869?date=20260422&user_id=3306138&signature=TZW3yKtcrAA8Kidu6J5S6ZKsWmg%3AaglHmyox) 2026
@@ -61,7 +73,7 @@ located in Buffalo, NY
 
 
 
-## film journalism
+## journalism
 
 [Monday Memo](https://www.docnyc.net/monday-memo/)
 DOC NYC, 2019-\
@@ -80,7 +92,7 @@ IONCinema, 2011-2016
 
 
 
-## film curation
+## curation
 
 [Weekend Watch](https://www.docnyc.net/weekend-watch/) DOC NYC, 2021-\
 [Cultivate Cinema Circle](https://cultivatecinema.com/)
@@ -247,7 +259,7 @@ Hello, Star Vega |	4/23/2005	| Junius, ZeroPointOne, Tears of Tomorrow, Up From 
 
 
 
-## library
+## librarianship
 
 [Launch Pad Makerspace](https://www.buffalolib.org/makerspace-technology/launch-pad) \
 Central Downtown Library, Buffalo & Erie County Public Library, 2015-
@@ -269,7 +281,7 @@ Central Downtown Library, Buffalo & Erie County Public Library, 2018
 
 
 
-## memberships
+## professional memberships
 
 [Trans Journalist Association](https://members.transjournalists.org/)\
 [Greater Western New York Film Critics Association](https://gwnyfilmcritics.com/members-list/)\
