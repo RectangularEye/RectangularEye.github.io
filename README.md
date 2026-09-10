@@ -11,7 +11,7 @@ located in Buffalo, NY
   <a href="#journalism">Journalism</a> //
   <a href="#curation">Curation</a> //
   <a href="#press">Press</a> //
-  <a href="#live performances">Live Performances</a> //
+  <a href="#liveperformances">Live Performances</a> //
   <a href="#librarianship">Librarianship</a> //
   <a href="#professional memberships">Professional Memberships</a> //
   <a href="#contact">Contact</a>  
