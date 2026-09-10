@@ -31,7 +31,6 @@ located in Buffalo, NY
 2024\
 [Reach](https://urgesurfer.bandcamp.com/album/reach)
 2022
-</div>
 
 ### Stress Dolls
 [Forward](https://stressdolls.bandcamp.com/album/forward) 2022
