@@ -11,14 +11,13 @@ located in Buffalo, NY
   <a href="#journalism">Journalism</a> //
   <a href="#curation">Curation</a> //
   <a href="#press">Press</a> //
-  <a href="#performances">Live Performances</a> //
-  <a href="#library">Librarianship</a> //
-  <a href="#memberships">Professional Memberships</a> //
+  <a href="#live performances">Live Performances</a> //
+  <a href="#librarianship">Librarianship</a> //
+  <a href="#professional memberships">Professional Memberships</a> //
   <a href="#contact">Contact</a>  
 </nav>
 
 ## music
-<div id="music">
 
 ### Film Scoring
 [Examples](https://jordanmaelynsmith.disco.ac/playlist-new/28889869?date=20260422&user_id=3306138&signature=TZW3yKtcrAA8Kidu6J5S6ZKsWmg%3AaglHmyox) 2026
@@ -50,8 +49,6 @@ located in Buffalo, NY
 2007\
 [The Casino's Wake](https://open.spotify.com/album/2KROl2JDttw2JaQM9IDubX?si=-vAMIwjtQCCa1XyqztqDGg)
 2006
-
-
 
 ## video
 
