@@ -6,15 +6,15 @@ musician // video editor // journalist // curator // librarian\
 located in Buffalo, NY
 
 <nav class="cv-nav">
-  <a href="#music">Music</a> //
-  <a href="#video">Video</a> //
-  <a href="#journalism">Journalism</a> //
+  <a href="#music">music</a> //
+  <a href="#video">video</a> //
+  <a href="#journalism">journalism</a> //
   <a href="#curation">Curation</a> //
-  <a href="#press">Press</a> //
-  <a href="#live-performances">Live Performances</a> //
-  <a href="#librarianship">Librarianship</a> //
-  <a href="#professional-memberships">Professional Memberships</a> //
-  <a href="#contact">Contact</a>  
+  <a href="#press">press</a> //
+  <a href="#live-performances">live performances</a> //
+  <a href="#librarianship">librarianship</a> //
+  <a href="#professional-memberships">professional memberships</a> //
+  <a href="#contact">contact</a>  
 </nav>
 
 ## music
