@@ -22,10 +22,6 @@ located in Buffalo, NY
 ### Film Scoring
 [Examples](https://jordanmaelynsmith.disco.ac/playlist-new/28889869?date=20260422&user_id=3306138&signature=TZW3yKtcrAA8Kidu6J5S6ZKsWmg%3AaglHmyox) 2026
 
-### Engineering
-[Marissa Paternoster feat. Sheena Ozzella - *Swallowing the Stars*](https://www.patreon.com/MarissaPaternoster) 2026
-</div>
-
 ### Urge Surfer
 [Camp Club](https://urgesurfer.bandcamp.com/album/camp-club)
 2026\
@@ -53,6 +49,10 @@ located in Buffalo, NY
 2007\
 [The Casino's Wake](https://open.spotify.com/album/2KROl2JDttw2JaQM9IDubX?si=-vAMIwjtQCCa1XyqztqDGg)
 2006
+
+### Engineering
+[Marissa Paternoster feat. Sheena Ozzella - *Swallowing the Stars*](https://www.patreon.com/MarissaPaternoster) 2026
+</div>
 
 ## video
 
