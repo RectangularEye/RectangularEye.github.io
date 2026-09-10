@@ -2,8 +2,6 @@
 musician // video editor // journalist // curator // librarian\
 located in Buffalo, NY
 
-<img src="https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29" alt="Jordan" width="305"/>
-
 <nav class="cv-nav">
   <a href="#music">Music</a> //
   <a href="#video">Video</a> //
@@ -15,6 +13,9 @@ located in Buffalo, NY
   <a href="#professional-memberships">Professional Memberships</a> //
   <a href="#contact">Contact</a>  
 </nav>
+
+<img src="https://github.com/user-attachments/assets/13b7aa12-ffe2-4e41-ae9b-8df549fcba29" alt="Jordan" width="305"/>
+
 
 ## music
 
