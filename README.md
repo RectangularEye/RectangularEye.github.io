@@ -138,7 +138,6 @@ IONCinema, 2011-2016
 Stress Dolls | 11/6/2026 | *Loud Women Festival* w/ Enfants Sauvages, I, Doris, Iris Marlowe, Morgan-Paige, Shy Friend & Sunlust | The Baby G, Toronto, ON
 Stress Dolls | 10/25/2026 | *Bye Week Ball* w/ DP & Sanctified Funk, Grosh, Grub, David Jonathan & The Inner City Bedlam, Pocketship, Johnny Hart & The Mess, BEÜ | Town Ballroom, Buffalo, NY
 Stress Dolls | 10/11/2026 | *O+ Festival* w/ Lucero, The Antlers, Matt Pond PA, MC Lars & Alexis Krauss | Snapper Magee's, Kingston, NY
-Stress Dolls | 9/11/2026 | Surrogates, Faith to Fear, Ice Holez | Pink Rock Culture Co-op, Syracuse, NY
 Personal Style | 8/23/2026 | Chimes of Bayonets, Mitten, Eeyore | Spotlight Comedy, St. Catherines, ON
 Personal Style | 8/22/2026 | Chimes of Bayonets, Class of 91, Aspect Lisse, Seraphine's Cleaver | Avant Garde Bar, Ottawa, ON
 Personal Style | 8/21/2026 | Chimes of Bayonets, Bbark, Art Grey | P'tit Ours, Montréal, QC
